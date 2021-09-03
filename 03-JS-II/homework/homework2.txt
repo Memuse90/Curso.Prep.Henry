@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+ estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for
+La estructura FOR o PARA es lo que se conoce como un bucle. Son estructuras que permiten repetir la ejecución de sentencias
+ y expresiones que se declaran en su interior un número determinado de veces definido previamente. 
+
+&&, ||, !
+Estos son los símbolos utilizados en Javascript para realizar operaciones lógicas. Son los operadores lógicos.
+&& indica la operación AND (y), que se realiza con valores booleanos: true, false. || indica la operación OR (o).
+AND devuelve un resultado verdadero sólo si las dos condiciones evaluadas son verdaderas.
+OR devuelve un verdadero sí cualquiera de las dos condiciones es verdadera o si las dos son verdaderas.
+! indica la negación de una condición. Es decir, si es true se vuelve false y viceversa.  
