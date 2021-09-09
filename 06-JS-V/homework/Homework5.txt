@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras
+ explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+prototype
+Prototype es una propiedad de todos los objetos en Javascript que nos permite que nuevos objetos hereden métodos de otros objetos en su misma Prototypal chain y
+posibilita no tener que volver a escribir nuevamente propiedades de un objeto que es "del tipo" de otro. 
+Constructors (de Clases)
+Los constructores son funciones que reciben como argumentos las propiedades que le vamos a atribuir a un objeto "plantilla" que
+nos servirá para instanciar objetos del mismo tipo en el futuro, y no retorna ningún valor. Esta función, mediante el uso de
+ la palabra reservada THIS, apunta directamente al objeto que se está creando.    

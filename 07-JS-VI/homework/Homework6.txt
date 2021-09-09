@@ -1,0 +1,4 @@
+Funciones Callback:
+son funciones que se pasan como argumentos de otras funciones, es decir, para ser invocadas dentro de ellas. Esto se debe a que Javascript 
+trata a las funciones como a cualquier otro objeto dentro de él. Se las puede retornar como resultado de otra función, guardarlas como variables u otras estructuras de datos
+y se pueden pasar como argumentos. 
